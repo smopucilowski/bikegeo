@@ -1,0 +1,15 @@
+geometry = {
+    'seat tube':                458,
+    'top tube':                 576,
+    'head tube':                250,
+    'chain stay':               437,
+    'bottom bracket height':    276,
+    'bottom bracket drop':      26,
+    'wheelbase':                1082,
+    'head angle':               68.7,
+    'seat angle':               71.3,
+    'standover':                650,
+    'reach':                    402,
+    'stack':                    523,
+    'fork length':              350,
+}
