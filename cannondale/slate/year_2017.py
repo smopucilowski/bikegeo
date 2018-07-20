@@ -1,0 +1,20 @@
+sizes    = (                        's',    'm',    'l',    'x')
+geometry = {
+    'seat tube length':             (414,   454,    494,    544),
+    'top tube horizontal':          (510,   545,    570,    590),
+    'top tube actual':              (494,   526,    550,    576),
+    'head tube angle':              (71.0,  71.5,   71.5,   71.5),
+    'seat tube angle effective':    (74.5,  74.0,   73.5,   73.0),
+    'seat tube angle actual':       (74.5,  74.0,   73.5,   73.0),
+    'standover':                    (702,   739,    772,    800),
+    'head tube length':             (110,   134,    160,    160),
+    'wheelbase':                    (968,   996,    1018,   1032),
+    'front center':                 (574,   601,    621,    636),
+    'chain stay length':            (405,   405,    405,    405),
+    'bottom bracket drop':          (70,    67,     65,     65),
+    'bottom bracket height':        (270,   273,    275,    275),
+    'fork rake':                    (45,    45,     45,     45),
+    'trail':                        (69,    66,     66,     66),
+    'stack':                        (538,   560,    582,    582),
+    'reach':                        (361,   385,    398,    412),
+}
